@@ -1,0 +1,360 @@
+F:\Project\EShop\server\bin\Debug\net8.0\appsettings.Development.json
+F:\Project\EShop\server\bin\Debug\net8.0\appsettings.json
+F:\Project\EShop\server\bin\Debug\net8.0\server.exe
+F:\Project\EShop\server\bin\Debug\net8.0\server.deps.json
+F:\Project\EShop\server\bin\Debug\net8.0\server.runtimeconfig.json
+F:\Project\EShop\server\bin\Debug\net8.0\server.dll
+F:\Project\EShop\server\bin\Debug\net8.0\server.pdb
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Project\EShop\server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+F:\Project\EShop\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\EShop\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+F:\Project\EShop\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+F:\Project\EShop\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+F:\Project\EShop\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\EShop\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\EShop\server\obj\Debug\net8.0\staticwebassets.build.json
+F:\Project\EShop\server\obj\Debug\net8.0\staticwebassets.development.json
+F:\Project\EShop\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Project\EShop\server\obj\Debug\net8.0\staticwebassets\msbuild.build.server.props
+F:\Project\EShop\server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+F:\Project\EShop\server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.server.props
+F:\Project\EShop\server\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Project\EShop\server\obj\Debug\net8.0\scopedcss\bundle\server.styles.css
+F:\Project\EShop\server\obj\Debug\net8.0\server.csproj.Up2Date
+F:\Project\EShop\server\obj\Debug\net8.0\server.dll
+F:\Project\EShop\server\obj\Debug\net8.0\refint\server.dll
+F:\Project\EShop\server\obj\Debug\net8.0\server.pdb
+F:\Project\EShop\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+F:\Project\EShop\server\obj\Debug\net8.0\ref\server.dll
+F:\Project\EShop\server\bin\Debug\net8.0\AutoMapper.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Azure.Core.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Azure.Identity.dll
+F:\Project\EShop\server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Humanizer.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Project\EShop\server\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.CodeDom.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Project\EShop\server\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Project\EShop\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Project\EShop\server\obj\Debug\net8.0\server.sourcelink.json
+f:\Project\EShop\server\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+f:\Project\EShop\server\bin\Debug\net8.0\Razorpay.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\appsettings.Development.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\appsettings.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\server.staticwebassets.endpoints.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\server.exe
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\server.deps.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\server.runtimeconfig.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\server.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\server.pdb
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\AutoMapper.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Azure.Core.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Azure.Identity.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Humanizer.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Razorpay.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.CodeDom.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cs
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cache
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\scopedcss\bundle\server.styles.css
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets\msbuild.build.server.props
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.server.props
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.csproj.Up2Date
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\refint\server.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.pdb
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\obj\Debug\net8.0\ref\server.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\MailKit.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\MimeKit.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Ecommerce\Apexcart Full Stack project (1)\Apexcart Full Stack project\server\server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\appsettings.Development.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\appsettings.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.staticwebassets.endpoints.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.exe
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.deps.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.runtimeconfig.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.pdb
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\AutoMapper.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Azure.Core.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Azure.Identity.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Humanizer.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\MailKit.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\MimeKit.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Razorpay.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.CodeDom.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cs
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cache
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\scopedcss\bundle\server.styles.css
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.build.server.props
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.server.props
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.csproj.Up2Date
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\refint\server.dll
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.pdb
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+D:\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\ref\server.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\appsettings.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.staticwebassets.endpoints.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.exe
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.deps.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.runtimeconfig.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\server.pdb
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\MailKit.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Razorpay.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\scopedcss\bundle\server.styles.css
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.build.server.props
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.csproj.Up2Date
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\refint\server.dll
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.pdb
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+C:\Users\Sritha-Pc\Downloads\Ecommerce\Ecommerce\onboardtask\onboardtask\server\server\obj\Debug\net8.0\ref\server.dll
