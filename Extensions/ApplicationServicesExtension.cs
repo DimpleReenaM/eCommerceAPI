@@ -36,7 +36,7 @@ namespace server.Extensions
           services.AddScoped<IPaymentService,PaymentService>();
           services.AddScoped<IReviewService,ReviewService>();
           services.AddScoped<IWishListService, WishListService>();
-          return services;
+          return services ;
         }
     }
 }

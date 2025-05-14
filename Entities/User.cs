@@ -35,5 +35,8 @@ public class User
 
     public string? GSTNumber { get; set; } = "";
 
+    public DateTime CreatedDate { get; set; }
+
+
 
 }

@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "server.Controllers.AdminDashboard",
+    "Method": "GetDashboardData",
+    "RelativePath": "api/AdminDashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "server.Controllers.AuthController",
     "Method": "ForgotPassword",
     "RelativePath": "api/auth/forgot-password",

@@ -92,7 +92,9 @@ namespace server.Controllers
                 Role=UserRoles.USER.ToString(),
                 Password = BCrypt.Net.BCrypt.HashPassword(req.Password),
                 RefreshToken="",
-                RefreshTokenExpire=DateTime.Now.AddDays(2)
+                RefreshTokenExpire=DateTime.Now.AddDays(2),
+                CreatedDate=req.CreatedBy
+               
             };
             bool result = await this.userRepository.AddUser(newUser);
 
@@ -316,6 +318,7 @@ namespace server.Controllers
                 Password = BCrypt.Net.BCrypt.HashPassword(req.Password),
                 RefreshToken = "",
                 RefreshTokenExpire = DateTime.Now.AddDays(2),
+                CreatedDate=req.CreatedBy
 
             };
             bool result = await this.userRepository.AddUser(newUser);
@@ -362,7 +365,8 @@ namespace server.Controllers
                 BusinessName = req.BusinessName,
                 PhoneNumber = req.PhoneNumber,
                 BusinessType = businessType, // Assign Business Type
-                GSTNumber = req.GSTNumber
+                GSTNumber = req.GSTNumber,
+                CreatedDate=req.CreatedBy
             };
             bool result = await this.userRepository.AddUser(newUser);
 

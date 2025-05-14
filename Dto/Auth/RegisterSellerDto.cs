@@ -16,5 +16,8 @@
 
 
         public string? GSTNumber { get; set; }
+
+        public DateTime CreatedBy { get; set; }
+
     }
 }

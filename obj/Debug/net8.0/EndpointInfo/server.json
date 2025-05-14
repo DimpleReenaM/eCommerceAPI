@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/AdminDashboard": {
+      "get": {
+        "tags": [
+          "AdminDashboard"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/auth/login": {
       "post": {
         "tags": [
@@ -2456,6 +2468,10 @@
           "password": {
             "minLength": 1,
             "type": "string"
+          },
+          "createdBy": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false
@@ -2494,6 +2510,10 @@
           "gstNumber": {
             "type": "string",
             "nullable": true
+          },
+          "createdBy": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false
@@ -2516,6 +2536,10 @@
           "address": {
             "type": "string",
             "nullable": true
+          },
+          "createdBy": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false
@@ -2649,6 +2673,10 @@
           "gstNumber": {
             "type": "string",
             "nullable": true
+          },
+          "createdDate": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false
