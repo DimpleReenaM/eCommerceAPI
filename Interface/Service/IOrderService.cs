@@ -1,5 +1,6 @@
 using server.Dto;
 using server.Entities;
+using server.Utils.Enum;
 
 namespace server.Interface.Service
 {
@@ -10,5 +11,7 @@ namespace server.Interface.Service
         Task<OrderDetailDTO> GetOrderDetailAsync(int orderId,int userId);
 
         Task<IEnumerable<Order>> GetAllUserOrders();
+        Task<bool> UpdateOrderStatusAsync(int orderId, OrderStatus newStatus);
+
     }
 }

@@ -557,6 +557,11 @@
         "Name": "createdBy",
         "Type": "System.Int32",
         "IsRequired": false
+      },
+      {
+        "Name": "ModifiedBy",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -662,7 +667,7 @@
         "IsRequired": false
       },
       {
-        "Name": "IsActive",
+        "Name": "isActive",
         "Type": "System.Boolean",
         "IsRequired": false
       },
@@ -672,7 +677,12 @@
         "IsRequired": false
       },
       {
-        "Name": "UpdatedBy",
+        "Name": "CreatedBy",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ModifiedBy",
         "Type": "System.Int32",
         "IsRequired": false
       }
@@ -824,6 +834,22 @@
       {
         "Name": "orderId",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server.Controllers.OrderController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/Order/update-status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "server.Dto.Order.UpdateOrderStatusDto",
         "IsRequired": true
       }
     ],

@@ -766,6 +766,15 @@
               "type": "integer",
               "format": "int32"
             }
+          },
+          {
+            "name": "ModifiedBy",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
           }
         ],
         "requestBody": {
@@ -836,14 +845,18 @@
                     "type": "integer",
                     "format": "int32"
                   },
-                  "IsActive": {
+                  "isActive": {
                     "type": "boolean"
                   },
                   "Thumbnail": {
                     "type": "string",
                     "format": "binary"
                   },
-                  "UpdatedBy": {
+                  "CreatedBy": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "ModifiedBy": {
                     "type": "integer",
                     "format": "int32"
                   }
@@ -874,13 +887,16 @@
                 "BrandId": {
                   "style": "form"
                 },
-                "IsActive": {
+                "isActive": {
                   "style": "form"
                 },
                 "Thumbnail": {
                   "style": "form"
                 },
-                "UpdatedBy": {
+                "CreatedBy": {
+                  "style": "form"
+                },
+                "ModifiedBy": {
                   "style": "form"
                 }
               }
@@ -1448,6 +1464,37 @@
         }
       }
     },
+    "/api/Order/update-status": {
+      "put": {
+        "tags": [
+          "Order"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateOrderStatusDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateOrderStatusDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateOrderStatusDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/Payment/update-payment": {
       "post": {
         "tags": [
@@ -1982,13 +2029,12 @@
       },
       "BusinessTypes": {
         "enum": [
-          0,
-          1,
-          2,
-          3
+          "SoleProprietorship",
+          "Partnership",
+          "PrivateLimited",
+          "PublicLimited"
         ],
-        "type": "integer",
-        "format": "int32"
+        "type": "string"
       },
       "CatalogSpec": {
         "type": "object",
@@ -2185,6 +2231,19 @@
           }
         },
         "additionalProperties": false
+      },
+      "OrderStatus": {
+        "enum": [
+          "Placed",
+          "Confirmed",
+          "Shipped",
+          "OutForDelivery",
+          "Delivered",
+          "Cancelled",
+          "Returned",
+          "Failed"
+        ],
+        "type": "string"
       },
       "PaymentVerificationRequest": {
         "type": "object",
@@ -2606,6 +2665,19 @@
           "quantity": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateOrderStatusDto": {
+        "type": "object",
+        "properties": {
+          "orderId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "newStatus": {
+            "$ref": "#/components/schemas/OrderStatus"
           }
         },
         "additionalProperties": false

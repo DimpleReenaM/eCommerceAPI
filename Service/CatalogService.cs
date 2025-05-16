@@ -65,8 +65,10 @@ namespace server.Service
             newProduct.Category = category;
             newProduct.Thumbnail = image;
             newProduct.CreatedBy = inData.createdBy;
+            newProduct.ModifiedBy = inData.ModifiedBy;
 
-           return await this.productRepository.AddAsync(newProduct);
+
+            return await this.productRepository.AddAsync(newProduct);
         }
 
         public async Task<Product> UpdateProduct(UpdateProductReq inData)
@@ -97,9 +99,11 @@ namespace server.Service
             existingProduct.DiscountPercentage = inData.DiscountPercentage;
             existingProduct.Category = category;
             existingProduct.Brand = brand;
-            existingProduct.IsDeleted = inData.IsActive;
-            existingProduct.CreatedBy = inData.UpdatedBy;
+            existingProduct.IsDeleted = inData.isActive;
+            existingProduct.CreatedBy = inData.CreatedBy;
             existingProduct.CreatedDate = DateTime.UtcNow;
+            existingProduct.ModifiedBy = inData.ModifiedBy;
+
 
             await this.productRepository.UpdateAsync(existingProduct);
 

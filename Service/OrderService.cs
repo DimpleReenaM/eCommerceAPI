@@ -94,5 +94,15 @@ namespace server.Service
         {
             return await _orderRepository.GetAllOrders();
         }
+
+        public async Task<bool> UpdateOrderStatusAsync(int orderId, OrderStatus newStatus)
+        {
+            var order = await _orderRepository.GetByIdAsync(orderId);
+            if (order == null) throw new Exception("Order not found");
+
+            order.Status = newStatus.ToString();
+            await _orderRepository.UpdateAsync(order);
+            return true;
+        }
     }
 }

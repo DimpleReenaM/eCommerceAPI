@@ -74,5 +74,21 @@ namespace server.Controllers
 
             return Ok(new {order=orderDto,paymentDetails=details.paymentDetails,details.shippingAddress});
         }
+
+        [HttpPut("update-status")]
+        public async Task<IActionResult> UpdateStatus([FromBody] UpdateOrderStatusDto dto)
+        {
+            try
+            {
+                await orderService.UpdateOrderStatusAsync(dto.OrderId, dto.NewStatus);
+                return Ok(new { message = "Order status updated successfully" });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+        }
+
+
     }
 }

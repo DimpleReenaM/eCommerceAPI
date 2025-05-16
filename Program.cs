@@ -3,6 +3,7 @@ using Microsoft.Extensions.FileProviders;
 using server.Data;
 using server.Extensions;
 using server.Service;
+using System.Text.Json.Serialization;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -32,6 +33,11 @@ builder.Services.AddCors((options) => {
         .AllowAnyHeader();
     });
 });
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+    });
 
 builder.Services.AddAppServices();
 

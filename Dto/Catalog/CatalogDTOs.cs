@@ -15,6 +15,8 @@ namespace server.Dto
         public int BrandId { get; set; }
         public IFormFile Thumbnail { get; set; }
         public int createdBy { get; set; }
+        public int ModifiedBy { get; set; }
+
     }
 
     public class CreateBrandReq

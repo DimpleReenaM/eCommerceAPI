@@ -37,7 +37,7 @@ namespace server.Helper
                   _config["Jwt:Issuer"],
                   claims.ToArray(),
                   notBefore:DateTime.Now,
-                  expires:DateTime.Now.AddMinutes(10),
+                  expires:DateTime.Now.AddMinutes(30),
                   signingCredentials: credential
                 );
             return new JwtSecurityTokenHandler().WriteToken(token);
