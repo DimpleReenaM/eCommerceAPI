@@ -89,5 +89,10 @@ namespace server.Service
         {
             return await _orderRepository.GetAllAsyncByUserId(userId);
         }
+
+        public async Task<IEnumerable<Order>> GetAllUserOrders()
+        {
+            return await _orderRepository.GetAllOrders();
+        }
     }
 }

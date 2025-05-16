@@ -8,5 +8,7 @@ namespace server.Interface.Service
         Task<Order> CreateOrderAsync(int userId,int cartId,AddressDto address);
         Task<IEnumerable<Order>> GetOrdersAsync(int userId);
         Task<OrderDetailDTO> GetOrderDetailAsync(int orderId,int userId);
+
+        Task<IEnumerable<Order>> GetAllUserOrders();
     }
 }

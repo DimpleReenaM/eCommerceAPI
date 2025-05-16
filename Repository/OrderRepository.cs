@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using server.Data;
 using server.Entities;
 using server.Interface.Repository;
+using System.Collections.Immutable;
 
 namespace server.Repository
 {
@@ -20,6 +21,11 @@ namespace server.Repository
             .Where(o => o.UserId == userId)
             .OrderByDescending(o => o.OrderDate)
             .ToListAsync();
+        }
+        
+        public async Task<IEnumerable<Order>>GetAllOrders()
+        {
+            return await contex.Orders.ToListAsync();
         }
     }
 }

@@ -3891,9 +3891,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sritha-Pc\\Source\\Repos\\eCommerceAPI\\server.csproj",
+      "projectUniqueName": "C:\\Users\\Sritha-Pc\\source\\repos\\eCommerceAPI\\server.csproj",
       "projectName": "server",
-      "projectPath": "C:\\Users\\Sritha-Pc\\Source\\Repos\\eCommerceAPI\\server.csproj",
+      "projectPath": "C:\\Users\\Sritha-Pc\\source\\repos\\eCommerceAPI\\server.csproj",
       "packagesPath": "C:\\Users\\Sritha-Pc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sritha-Pc\\Source\\Repos\\eCommerceAPI\\obj\\",
       "projectStyle": "PackageReference",

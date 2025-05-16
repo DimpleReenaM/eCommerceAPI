@@ -10,7 +10,6 @@ namespace server.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Roles = "ADMIN,USER")]
     public class OrderController : ControllerBase
     {
 
@@ -47,11 +46,8 @@ namespace server.Controllers
         [HttpGet("Get-all-orders")]
         public async Task<ActionResult<ResponseDto>> GetAllOrders()
         {
-            if (!Int32.TryParse(User.FindFirst("UserId")?.Value, out int userId))
-            {
-                return Unauthorized();
-            }
-            var orders = await orderService.GetOrdersAsync(userId);
+            
+            var orders = await orderService.GetAllUserOrders();
             var orderDto = mapper.Map<List<GetUserOrdersDTO>>(orders);
 
             return Ok(orderDto);
