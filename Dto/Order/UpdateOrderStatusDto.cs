@@ -6,7 +6,5 @@ namespace server.Dto.Order
     {
         public int OrderId { get; set; }
         public OrderStatus NewStatus { get; set; }
-
-        public int  userId { get; set; }
     }
 }

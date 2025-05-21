@@ -1,13 +1,10 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Org.BouncyCastle.Ocsp;
 using server.Dto;
 using server.Dto.Order;
 using server.Entities;
-using server.Interface.Repository;
 using server.Interface.Service;
-using server.Service;
 
 namespace server.Controllers
 {
@@ -19,24 +16,16 @@ namespace server.Controllers
         private readonly IOrderService orderService;
         private readonly IPaymentService paymentService;
         private readonly IMapper mapper;
-        private readonly IUserRepository userRepository;
-        private readonly IEmailService _emailService;
-
 
         public OrderController(
             IOrderService orderService,
             IPaymentService paymentService,
-            IMapper mapper, IUserRepository userRepository,
-            IEmailService config
+            IMapper mapper
         )
         {
             this.orderService = orderService;
             this.paymentService = paymentService;
             this.mapper = mapper;
-            this.userRepository = userRepository;
-            _emailService = config;
-
-
         }
 
         [HttpPost("CreateOrder")]
@@ -91,28 +80,15 @@ namespace server.Controllers
         {
             try
             {
-                var result = await orderService.UpdateOrderStatusAsync(dto.OrderId, dto.NewStatus);
-
-                if (result)
-                {
-                    var user = await userRepository.GetUserByIdAsync(dto.userId); // Get user by ID
-
-                    if (user != null)
-                    {
-                        await _emailService.SendEmailAsync(
-                            user.Email,
-                            "Order Status Update",
-                            $"Your order #{dto.OrderId} status has been updated to {dto.NewStatus}."
-                        );
-                    }
-                    return Ok(new { message = "Order status updated and email sent successfully." });
-                }
-                return BadRequest(new { message = "Order status update failed." });
+                await orderService.UpdateOrderStatusAsync(dto.OrderId, dto.NewStatus);
+                return Ok(new { message = "Order status updated successfully" });
             }
             catch (Exception ex)
             {
                 return BadRequest(new { message = ex.Message });
             }
         }
+
+
     }
 }

@@ -31,12 +31,6 @@ namespace server.Repository
                 .Where(u => u.Email == email)
                 .SingleOrDefaultAsync();
         }
-        public async Task<User?> GetUserByIdAsync(int userId)
-        {
-            return await this.contex.users
-                .Where(u => u.UserId == userId)
-                .SingleOrDefaultAsync();
-        }
 
         public async Task<bool> UpdateUser(User user)
         {

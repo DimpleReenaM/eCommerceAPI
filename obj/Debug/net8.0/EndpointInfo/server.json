@@ -2678,10 +2678,6 @@
           },
           "newStatus": {
             "$ref": "#/components/schemas/OrderStatus"
-          },
-          "userId": {
-            "type": "integer",
-            "format": "int32"
           }
         },
         "additionalProperties": false
