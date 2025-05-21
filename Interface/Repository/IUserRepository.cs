@@ -6,6 +6,9 @@ namespace server.Interface.Repository
     {
         Task<User?> GetUserByEmail(string email);
 
+        Task<User?> GetUserByIdAsync(int userId);
+
+
         Task<bool> AddUser(User user);
 
         Task<bool> UpdateUser(User user);
