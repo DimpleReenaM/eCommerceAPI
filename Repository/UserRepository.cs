@@ -9,7 +9,7 @@ namespace server.Repository
     {
         private readonly DataContex contex;
 
-        public UserRepository(DataContex contex) 
+        public UserRepository(DataContex contex)
         {
             this.contex = contex;
         }
@@ -29,6 +29,12 @@ namespace server.Repository
         {
             return await this.contex.users
                 .Where(u => u.Email == email)
+                .SingleOrDefaultAsync();
+        }
+        public async Task<User?> GetUserByIdAsync(int userId)
+        {
+            return await this.contex.users
+                .Where(u => u.UserId == userId)
                 .SingleOrDefaultAsync();
         }
 
@@ -57,7 +63,7 @@ namespace server.Repository
         }
         public async Task<bool> RemoveAddress(int addressId)
         {
-            await this.contex.Address.Where(a=>a.Id==addressId).ExecuteDeleteAsync();
+            await this.contex.Address.Where(a => a.Id == addressId).ExecuteDeleteAsync();
             return await this.contex.SaveChangesAsync() > 0;
         }
         public async Task<User?> GetUserByResetToken(string token)
