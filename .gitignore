@@ -7,3 +7,7 @@
 /bin/Debug/net8.0/server.dll
 /obj/Debug/net8.0/server.AssemblyInfo.cs
 /obj/Debug/net8.0/server.AssemblyInfoInputs.cache
+/obj/Debug/net8.0/apphost.exe
+/obj/Debug/net8.0/server.assets.cache
+/obj/Debug/net8.0/server.csproj.AssemblyReference.cache
+/obj/Debug/net8.0/server.GeneratedMSBuildEditorConfig.editorconfig
