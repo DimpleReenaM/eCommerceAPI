@@ -3,6 +3,13 @@
 ################################################################################
 
 /.vs
+/obj
+/bin
+/eCommerceAPI/.vs
+/eCommerceAPI/obj
+/eCommerceAPI/bin
+ 
+/bin/Debug/net8.0
 /bin/Debug/net8.0/server.exe
 /bin/Debug/net8.0/server.dll
 /obj/Debug/net8.0/server.AssemblyInfo.cs
