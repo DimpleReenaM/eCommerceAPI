@@ -21,10 +21,8 @@ namespace server.Mapper
             CreateMap<Brand, BrandResDto>();
             CreateMap<Product, ProductResDto>();
             CreateMap<WishlistItem, WishListItemResDto>();
-
             CreateMap<ShoppingCartItem, ShoppingCartItemResDto>();
             CreateMap<ShoppingCart, ShoppingCartResDto>();
-
             CreateMap<Address, AddressDto>().ReverseMap();
             CreateMap<AddAddressDto, Address>();
             CreateMap<Order, GetUserOrdersDTO>();
