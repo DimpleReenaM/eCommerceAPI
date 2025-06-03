@@ -100,7 +100,7 @@ namespace server.Service
             existingProduct.Category = category;
             existingProduct.Brand = brand;
             existingProduct.IsDeleted = inData.isActive;
-            existingProduct.CreatedBy = inData.CreatedBy;
+            
             existingProduct.CreatedDate = DateTime.UtcNow;
             existingProduct.ModifiedBy = inData.ModifiedBy;
 

@@ -30,3 +30,8 @@
 /obj/Debug/net8.0/server.sourcelink.json
 /obj/project.nuget.cache
 /obj/server.csproj.nuget.dgspec.json
+/obj/server.csproj.nuget.g.props
+/obj/Debug/net8.0/server.csproj.CoreCompileInputs.cache
+/obj/Debug/net8.0/server.genruntimeconfig.cache
+/obj/project.assets.json
+/obj/server.csproj.nuget.g.props
