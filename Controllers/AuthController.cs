@@ -318,7 +318,8 @@ namespace server.Controllers
                 Password = BCrypt.Net.BCrypt.HashPassword(req.Password),
                 RefreshToken = "",
                 RefreshTokenExpire = DateTime.Now.AddDays(2),
-                CreatedDate=req.CreatedBy
+                CreatedDate = DateTime.Now
+
 
             };
             bool result = await this.userRepository.AddUser(newUser);
@@ -366,7 +367,7 @@ namespace server.Controllers
                 PhoneNumber = req.PhoneNumber,
                 BusinessType = businessType, // Assign Business Type
                 GSTNumber = req.GSTNumber,
-                CreatedDate=req.CreatedBy
+                CreatedDate=DateTime.Now
             };
             bool result = await this.userRepository.AddUser(newUser);
 

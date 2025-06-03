@@ -22,7 +22,7 @@ namespace server.Controllers
         {
             var totalRevenue = await _context.Orders.SumAsync(o => o.TotalPrice);
             var totalOrders = await _context.Orders.CountAsync();
-            var activeUsers = await _context.users.Where(u => u.Role == "Seller").CountAsync();
+            var activeUsers = await _context.users.Where(u => u.Role == "USER").CountAsync();
             var newSellers = await _context.users
               .Where(u => u.Role == "Seller" && u.CreatedDate >= DateTime.UtcNow.AddDays(-30))
               .CountAsync();
@@ -42,7 +42,7 @@ namespace server.Controllers
                 .ToListAsync();
 
             var recentSellers = await _context.users
-                .Where(u => u.Role == "Seller")
+                .Where(u => u.Role == "SELLER")
                 .OrderByDescending(u => u.CreatedDate)
                 .Take(5)
                 .Select(u => new RecentSellerDto
