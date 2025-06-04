@@ -35,9 +35,9 @@ namespace server.Helper
             var token = new JwtSecurityToken(
                   _config["Jwt:Issuer"],
                   _config["Jwt:Issuer"],
-                  claims.ToArray(),
+                  claims.ToArray(),      
                   notBefore:DateTime.Now,
-                  expires:DateTime.Now.AddMinutes(30),
+                  expires:DateTime.Now.AddHours(3),
                   signingCredentials: credential
                 );
             return new JwtSecurityTokenHandler().WriteToken(token);
