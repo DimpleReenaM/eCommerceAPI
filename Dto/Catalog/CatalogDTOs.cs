@@ -17,6 +17,9 @@ namespace server.Dto
         public int createdBy { get; set; }
         public int ModifiedBy { get; set; }
 
+        public bool isActive { get; set; }
+
+
     }
 
     public class CreateBrandReq

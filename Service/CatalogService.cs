@@ -66,6 +66,7 @@ namespace server.Service
             newProduct.Thumbnail = image;
             newProduct.CreatedBy = inData.createdBy;
             newProduct.ModifiedBy = inData.ModifiedBy;
+            newProduct.IsDeleted = inData.isActive;
 
 
             return await this.productRepository.AddAsync(newProduct);
