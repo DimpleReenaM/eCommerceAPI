@@ -251,7 +251,7 @@ namespace server.Controllers
 
 
             // Create reset link
-            var resetLink = $"{FrontendUrl}/reset-password?token={resetToken}";
+            var resetLink = $"{FrontendUrl}/auth/reset-password?token={resetToken}";
 
             // Send Email
             var subject = "Password Reset Request";
