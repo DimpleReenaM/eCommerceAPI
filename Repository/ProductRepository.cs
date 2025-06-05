@@ -65,8 +65,13 @@ namespace server.Repository
             {
                 productQuery = productQuery.Where(p => inData.BrandIds.Contains(p.BrandId));
             }
-
-            
+            if (inData.Ratings != null && inData.Ratings.Any())
+            {
+                productQuery = productQuery.Where(p =>
+                    inData.Ratings.Contains((int)Math.Round(p.AverageRating))
+                );
+            }
+                
 
             // Apply sorting
             switch (inData.Sort?.ToLower())
@@ -96,8 +101,23 @@ namespace server.Repository
 
             // Only get stats for the filtered set
             var totalFilteredCount = await productQuery.CountAsync();
+            if (totalFilteredCount == 0)
+            {
+
+                return new ProductPagination()
+                {
+                    PageIndex = inData.PageIndex,
+                    PageSize = inData.PageSize,
+                    Data = new List<Product>(),
+                    Count = 0,
+                    MinPrice = 0,
+                    MaxPrice = 0
+                };
+            }
+
             var minFilteredPrice = await productQuery.MinAsync(p => p.OriginalPrice);
             var maxFilteredPrice = await productQuery.MaxAsync(p => p.OriginalPrice);
+            
 
             return new ProductPagination()
             {
